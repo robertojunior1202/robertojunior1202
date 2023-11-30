@@ -46,6 +46,7 @@ Pós Graduação em Ciência de Dados e Big Data - PUC Minas
 
 #### **Projetos Desenvolvidos**
  - [Calculadora de Amassamento por Tráfego de Pulverizadores Agrícolas](https://sweet-crostata-4bbe93.netlify.app/)
+  - [Página de Login Interativa](https://resonant-frangipane-34fb39.netlify.app/)
 
 <br/>
 
