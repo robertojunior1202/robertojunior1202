@@ -1,5 +1,6 @@
 ### Olá, Seja Bem Vindo 🤝
 Meu nome é Roberto Junior e este é o meu Repositório de Projetos. 
+<hr>
 
 
 #### **Formação Acadêmica**
@@ -36,10 +37,11 @@ Pós Graduação em Ciência de Dados e Big Data - PUC Minas
     <img align ="center" alt= "mongo-db" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     <img align ="center" alt= "mariadb" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
     
-</div>
+</div><br/>
 
 #### **Projetos Desenvolvidos**
  - [Calculadora de Amassamento por Tráfego de Pulverizadores Agrícolas](https://sweet-crostata-4bbe93.netlify.app/)
 
+<br/>
 
 #### **Principais Repositórios**
