@@ -39,6 +39,11 @@ Pós Graduação em Ciência de Dados e Big Data - PUC Minas
     
 </div><br/>
 
+#### **Portfólio PowerBI e Dashboards**
+ - [Dashboard Unidades de Armazenamento - Dados Sicarm/Conab 2023](https://app.powerbi.com/view?r=eyJrIjoiZjMyNGNkODAtMThlOS00MDRjLWI2YjMtY2ZmYmM1YTk2NDA5IiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9)
+
+<br/>
+
 #### **Projetos Desenvolvidos**
  - [Calculadora de Amassamento por Tráfego de Pulverizadores Agrícolas](https://sweet-crostata-4bbe93.netlify.app/)
 
