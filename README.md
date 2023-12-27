@@ -21,7 +21,6 @@ Pós Graduação em Ciência de Dados e Big Data - PUC Minas
 
 #### **Informações do GitHub**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertojunior1202&show_icons=true&theme=)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertojunior1202&layout=compact)
 
 #### **Tecnologias que utilizo no meu dia a dia**
