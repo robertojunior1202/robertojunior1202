@@ -39,7 +39,7 @@ Pós Graduação em Ciência de Dados e Big Data - PUC Minas
 </div><br/>
 
 #### **Portfólio PowerBI e Dashboards**
- - [Dashboard Unidades de Armazenamento - Dados Sicarm/Conab 2023](https://app.powerbi.com/view?r=eyJrIjoiZjMyNGNkODAtMThlOS00MDRjLWI2YjMtY2ZmYmM1YTk2NDA5IiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9)
+ - [Dashboard Unidades Agrícolas de Armazenamento de Grãos - Dados Sicarm/Conab]([https://app.powerbi.com/view?r=eyJrIjoiZjMyNGNkODAtMThlOS00MDRjLWI2YjMtY2ZmYmM1YTk2NDA5IiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9](https://app.powerbi.com/view?r=eyJrIjoiMjRlYjBhYzctNDZkMC00ZTA3LTlmODQtNTI5ZDMwM2E3NDI2IiwidCI6ImMzN2IzN2EzLWU5ZTItNDJmOS1iYzY3LTRiOWI3MzhlMWRmMCJ9))
 - [Dashboard Modelo de Vendas ](https://app.powerbi.com/view?r=eyJrIjoiZGQ2ZjJjYjItMmQwMi00YjU3LWE4OWUtOTJhZmUxYWU2OWYwIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9)
 - [Dashboard Modelo para Linhas de Produção ](https://app.powerbi.com/view?r=eyJrIjoiM2UzODkxNzMtYWM2OS00NTU4LWJhMTQtYzM5YWMxNjExZDczIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9)
 - [Dashboard para RH](https://app.powerbi.com/view?r=eyJrIjoiMDhhZDU1ODItNzU0Yi00MTViLThmNTQtNGFkZGJlMzUxYzFhIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9)
