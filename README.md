@@ -3,10 +3,10 @@ Meu nome é Roberto Junior e este é o meu Repositório de Projetos.
 <hr>
 
 
-#### **Formação Acadêmica**
+#### **Formações Acadêmicas**
 Engenharia Agrícola - UFPR  
 Análise e Desenvolvimento de Sistemas - Unicesumar  
-Pós Graduação em Ciência de Dados e Big Data - PUC Minas
+Pós Graduado em Ciência de Dados e Big Data - PUC Minas
 
      
 #### **Redes Sociais**
