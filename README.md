@@ -45,9 +45,9 @@ Pós Graduação em Ciência de Dados e Big Data - PUC Minas
 - [Dashoboard Valor Bruto de Produção (VBP) - DERAL/SEAB PR](https://app.powerbi.com/view?r=eyJrIjoiYTgxMWI1MjEtMzdiMy00YzgxLWI5ZDctYzA4ZjkxYjM2ZmNjIiwidCI6ImMzN2IzN2EzLWU5ZTItNDJmOS1iYzY3LTRiOWI3MzhlMWRmMCJ9)
 
 
-- [Dashboard Modelo de Vendas ](https://app.powerbi.com/view?r=eyJrIjoiZGQ2ZjJjYjItMmQwMi00YjU3LWE4OWUtOTJhZmUxYWU2OWYwIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9)
-- [Dashboard Modelo para Linhas de Produção ](https://app.powerbi.com/view?r=eyJrIjoiM2UzODkxNzMtYWM2OS00NTU4LWJhMTQtYzM5YWMxNjExZDczIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9)
-- [Dashboard para RH](https://app.powerbi.com/view?r=eyJrIjoiMDhhZDU1ODItNzU0Yi00MTViLThmNTQtNGFkZGJlMzUxYzFhIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9)
+- [Modelo de Dashboard para Vendas](https://app.powerbi.com/view?r=eyJrIjoiODI5N2JkMzYtZWE1My00MWM2LThmNzUtOWI5YzM4NDY5ZDg2IiwidCI6ImMzN2IzN2EzLWU5ZTItNDJmOS1iYzY3LTRiOWI3MzhlMWRmMCJ9)
+- [Modelo de Dashboard para Linhas de Produção ](https://app.powerbi.com/view?r=eyJrIjoiZDNlOTk5OTctODM4YS00NzE4LWE3YTMtMDM5NmM0NzE5MjFhIiwidCI6ImMzN2IzN2EzLWU5ZTItNDJmOS1iYzY3LTRiOWI3MzhlMWRmMCJ9)
+- [Modelo de Dashboard para RH](https://app.powerbi.com/view?r=eyJrIjoiM2YyOTA1ZDYtZjM1OS00NTRhLTk4MTUtYWNmYzhhMTEzYTc4IiwidCI6ImMzN2IzN2EzLWU5ZTItNDJmOS1iYzY3LTRiOWI3MzhlMWRmMCJ9)
 - [Dashboard Disponibilidade de Nutrientes x pH do Solo ](https://app.powerbi.com/view?r=eyJrIjoiODM3ZDJjZGQtYzExZi00MzE4LWE4Y2UtNjZlNzZiNGQ1NDZmIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9)
 
 
