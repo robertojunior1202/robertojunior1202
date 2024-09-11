@@ -39,7 +39,12 @@ Pós Graduação em Ciência de Dados e Big Data - PUC Minas
 </div><br/>
 
 #### **Portfólio PowerBI e Dashboards**
- - [Dashboard Unidades Agrícolas de Armazenamento de Grãos - Dados Sicarm/Conab](https://app.powerbi.com/view?r=eyJrIjoiMjRlYjBhYzctNDZkMC00ZTA3LTlmODQtNTI5ZDMwM2E3NDI2IiwidCI6ImMzN2IzN2EzLWU5ZTItNDJmOS1iYzY3LTRiOWI3MzhlMWRmMCJ9)
+- [Dashboard Unidades Agrícolas de Armazenamento de Grãos - Dados Sicarm/Conab](https://app.powerbi.com/view?r=eyJrIjoiMjRlYjBhYzctNDZkMC00ZTA3LTlmODQtNTI5ZDMwM2E3NDI2IiwidCI6ImMzN2IzN2EzLWU5ZTItNDJmOS1iYzY3LTRiOWI3MzhlMWRmMCJ9)
+- [Dashoboard Planejamento Agrícola Municipal (PAM) - IBGE](https://app.powerbi.com/view?r=eyJrIjoiMDk4NjE5ZTktMDhlYi00NzIxLTkyNDEtNTJmMGRiOGIzYTQ0IiwidCI6ImMzN2IzN2EzLWU5ZTItNDJmOS1iYzY3LTRiOWI3MzhlMWRmMCJ9) 
+- [Dashoboard Planejamento da Pecuária Municipal (PPM) - IBGE](https://app.powerbi.com/view?r=eyJrIjoiMzE4MjZhMTgtMzQyNi00ZTk4LTg1MjMtMTMyZTA3MThlMzJlIiwidCI6ImMzN2IzN2EzLWU5ZTItNDJmOS1iYzY3LTRiOWI3MzhlMWRmMCJ9)
+- [Dashoboard Valor Bruto de Produção (VBP) - DERAL/SEAB PR](https://app.powerbi.com/view?r=eyJrIjoiYTgxMWI1MjEtMzdiMy00YzgxLWI5ZDctYzA4ZjkxYjM2ZmNjIiwidCI6ImMzN2IzN2EzLWU5ZTItNDJmOS1iYzY3LTRiOWI3MzhlMWRmMCJ9)
+
+
 - [Dashboard Modelo de Vendas ](https://app.powerbi.com/view?r=eyJrIjoiZGQ2ZjJjYjItMmQwMi00YjU3LWE4OWUtOTJhZmUxYWU2OWYwIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9)
 - [Dashboard Modelo para Linhas de Produção ](https://app.powerbi.com/view?r=eyJrIjoiM2UzODkxNzMtYWM2OS00NTU4LWJhMTQtYzM5YWMxNjExZDczIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9)
 - [Dashboard para RH](https://app.powerbi.com/view?r=eyJrIjoiMDhhZDU1ODItNzU0Yi00MTViLThmNTQtNGFkZGJlMzUxYzFhIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9)
