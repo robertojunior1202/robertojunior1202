@@ -1,5 +1,5 @@
 ### Olá, Seja Bem Vindo 🤝
-Quem é o Roberto?
+<b>Quem é o Roberto?</b> <br>
 O Roberto é um entusiasta por Agricultura e Tecnologia que se encontrou profissionalmente no gigantesco mundo dos dados. Durante a Graduação, conheceu a linguagem de programação Python e descobriu o superpoder que essa tecnologia poderia lhe proporcionar.
 
 Com o tempo, mergulhei de cabeça no universo da análise de dados e machine learning. Hoje, me divido entre projetos que envolvem desde a otimização de processos agrícolas e automações diversas, até a transformação de dados complexos em soluções simples e impactantes.
