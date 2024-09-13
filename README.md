@@ -68,3 +68,5 @@ Pós Graduado em Ciência de Dados e Big Data - PUC Minas
 
 #### **Principais Repositórios**
 - Coleta de Dados em API, ETL e Gravação em Planilhas <a href="https://github.com/robertojunior1202/Portfolio-Python/blob/main/Consumo%20de%20API%20e%20ETL%20com%20Python" target="_blank"> Acesse o Projeto Aqui!</a>
+- Criação de Relatório Meteorológico Automatizado <a href="https://github.com/robertojunior1202/Relatorio_de_Meteorologia_e_Alertas_de_Doencas" target="_blank"> Acesse o Projeto Aqui!</a>
+  
