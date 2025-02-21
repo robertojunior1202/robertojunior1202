@@ -50,9 +50,9 @@ Pós Graduado em Ciência de Dados e Big Data - PUC Minas
 - [Dashoboard Planejamento Agrícola Municipal (PAM) - IBGE](https://app.powerbi.com/view?r=eyJrIjoiMDk4NjE5ZTktMDhlYi00NzIxLTkyNDEtNTJmMGRiOGIzYTQ0IiwidCI6ImMzN2IzN2EzLWU5ZTItNDJmOS1iYzY3LTRiOWI3MzhlMWRmMCJ9) 
 - [Dashoboard Planejamento da Pecuária Municipal (PPM) - IBGE](https://app.powerbi.com/view?r=eyJrIjoiMzE4MjZhMTgtMzQyNi00ZTk4LTg1MjMtMTMyZTA3MThlMzJlIiwidCI6ImMzN2IzN2EzLWU5ZTItNDJmOS1iYzY3LTRiOWI3MzhlMWRmMCJ9)
 - [Dashoboard Valor Bruto de Produção (VBP) - DERAL/SEAB PR](https://app.powerbi.com/view?r=eyJrIjoiYTgxMWI1MjEtMzdiMy00YzgxLWI5ZDctYzA4ZjkxYjM2ZmNjIiwidCI6ImMzN2IzN2EzLWU5ZTItNDJmOS1iYzY3LTRiOWI3MzhlMWRmMCJ9)
-- [Modelo de Dashboard para Vendas](https://app.powerbi.com/view?r=eyJrIjoiODI5N2JkMzYtZWE1My00MWM2LThmNzUtOWI5YzM4NDY5ZDg2IiwidCI6ImMzN2IzN2EzLWU5ZTItNDJmOS1iYzY3LTRiOWI3MzhlMWRmMCJ9)
-- [Modelo de Dashboard para Linhas de Produção ](https://app.powerbi.com/view?r=eyJrIjoiZDNlOTk5OTctODM4YS00NzE4LWE3YTMtMDM5NmM0NzE5MjFhIiwidCI6ImMzN2IzN2EzLWU5ZTItNDJmOS1iYzY3LTRiOWI3MzhlMWRmMCJ9)
-- [Modelo de Dashboard para RH](https://app.powerbi.com/view?r=eyJrIjoiM2YyOTA1ZDYtZjM1OS00NTRhLTk4MTUtYWNmYzhhMTEzYTc4IiwidCI6ImMzN2IzN2EzLWU5ZTItNDJmOS1iYzY3LTRiOWI3MzhlMWRmMCJ9)
+- [Modelo de Dashboard para Vendas](https://app.powerbi.com/view?r=eyJrIjoiZTU0ZjQwZGMtMGM5My00Yjc1LTljNTktM2JjMTg0YjYxNjU3IiwidCI6IjRmODQ2YWVmLTY3ZDYtNGRmZC1iYjcxLTBiMDA5YjgwMjdiNSJ9)
+- [Modelo de Dashboard para Linhas de Produção ](https://app.powerbi.com/view?r=eyJrIjoiMzZhYzg0NTAtYjYyNC00OWNmLTkyMjctNzRiZjYxNjc1Njk2IiwidCI6IjRmODQ2YWVmLTY3ZDYtNGRmZC1iYjcxLTBiMDA5YjgwMjdiNSJ9)
+- [Modelo de Dashboard para RH](https://app.powerbi.com/view?r=eyJrIjoiMzAwNTY1NTQtYWNlNi00MjM5LWJmZTYtMmE3MWViNzliYjE0IiwidCI6IjRmODQ2YWVmLTY3ZDYtNGRmZC1iYjcxLTBiMDA5YjgwMjdiNSJ9)
 - [Dashboard Disponibilidade de Nutrientes x pH do Solo ](https://app.powerbi.com/view?r=eyJrIjoiYzUyZTliZWUtZjRhYS00NDU4LWEwNDItYzY5NDYzOWM2MDMzIiwidCI6ImMzN2IzN2EzLWU5ZTItNDJmOS1iYzY3LTRiOWI3MzhlMWRmMCJ9)
 
 
