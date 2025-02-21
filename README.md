@@ -53,7 +53,7 @@ Pós Graduado em Ciência de Dados e Big Data - PUC Minas
 - [Modelo de Dashboard para Vendas](https://app.powerbi.com/view?r=eyJrIjoiZTU0ZjQwZGMtMGM5My00Yjc1LTljNTktM2JjMTg0YjYxNjU3IiwidCI6IjRmODQ2YWVmLTY3ZDYtNGRmZC1iYjcxLTBiMDA5YjgwMjdiNSJ9)
 - [Modelo de Dashboard para Linhas de Produção ](https://app.powerbi.com/view?r=eyJrIjoiMzZhYzg0NTAtYjYyNC00OWNmLTkyMjctNzRiZjYxNjc1Njk2IiwidCI6IjRmODQ2YWVmLTY3ZDYtNGRmZC1iYjcxLTBiMDA5YjgwMjdiNSJ9)
 - [Modelo de Dashboard para RH](https://app.powerbi.com/view?r=eyJrIjoiMzAwNTY1NTQtYWNlNi00MjM5LWJmZTYtMmE3MWViNzliYjE0IiwidCI6IjRmODQ2YWVmLTY3ZDYtNGRmZC1iYjcxLTBiMDA5YjgwMjdiNSJ9)
-- [Dashboard Disponibilidade de Nutrientes x pH do Solo ](https://app.powerbi.com/view?r=eyJrIjoiYzUyZTliZWUtZjRhYS00NDU4LWEwNDItYzY5NDYzOWM2MDMzIiwidCI6ImMzN2IzN2EzLWU5ZTItNDJmOS1iYzY3LTRiOWI3MzhlMWRmMCJ9)
+- [Dashboard Disponibilidade de Nutrientes x pH do Solo ](https://app.powerbi.com/view?r=eyJrIjoiMjM1NzAxOTctNDc1ZS00OGYyLWI5NjUtZTdkZTI1OTRhM2EwIiwidCI6IjRmODQ2YWVmLTY3ZDYtNGRmZC1iYjcxLTBiMDA5YjgwMjdiNSJ9)
 
 
 <br/>
