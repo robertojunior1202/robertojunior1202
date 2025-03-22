@@ -13,8 +13,7 @@ As frases que me definem são: "Não tenhamos pressa, mas também não percamos 
 #### **Formações Acadêmicas**
 Engenharia Agrícola - UFPR  
 Análise e Desenvolvimento de Sistemas - Unicesumar  
-Pós Graduado em Ciência de Dados e Big Data - PUC Minas
-
+Pós Graduado em Ciência de Dados e Big Data - PUC Minas 
 Cursando Residência em Inteligência Artififial - UniSenai Londrina
 
      
