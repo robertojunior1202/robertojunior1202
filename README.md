@@ -11,10 +11,10 @@ As frases que me definem são: "Não tenhamos pressa, mas também não percamos 
 
 
 #### **Formações Acadêmicas**
-Pós Graduado em Ciência de Dados e Big Data - PUC Minas
-Cursando Residência em Inteligência Artififial - UniSenai Londrina
-Engenharia Agrícola - UFPR  
-Análise e Desenvolvimento de Sistemas - Unicesumar  
+Engenharia Agrícola - UFPR    
+Análise e Desenvolvimento de Sistemas - Unicesumar   
+Cursando Residência em Inteligência Artififial - UniSenai Londrina  
+Pós Graduado em Ciência de Dados e Big Data - PUC Minas  
 
 
      
