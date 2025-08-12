@@ -31,9 +31,7 @@ Pós Graduado em Ciência de Dados e Big Data - PUC Minas
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCZnreLJq2GG8bnEFeyYcJiA)
 
 
-#### **Informações do GitHub**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertojunior1202&layout=compact)
 
 #### **Tecnologias que utilizo no meu dia a dia**
 
@@ -74,4 +72,8 @@ Pós Graduado em Ciência de Dados e Big Data - PUC Minas
 - Coleta de Dados em API, ETL e Gravação em Planilhas <a href="https://github.com/robertojunior1202/Portfolio-Python/blob/main/Consumo%20de%20API%20e%20ETL%20com%20Python" target="_blank"> Acesse o Projeto Aqui!</a>
 - Criação de Relatório Meteorológico Automatizado <a href="https://github.com/robertojunior1202/Relatorio_de_Meteorologia_e_Alertas_de_Doencas" target="_blank"> Acesse o Projeto Aqui!</a>
 - Finance Brasil - Portal de Dados Econômicos do Banco Central <a href="https://github.com/robertojunior1202/FinanceBR" target="_blank"> Acesse o Projeto Aqui!</a>
+
+#### **Informações do GitHub**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertojunior1202&layout=compact)
   
