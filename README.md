@@ -8,7 +8,7 @@ Fora das linhas de código, sou atleta de corrida de rua há 3 anos, com três m
 
 💬 Frases que me inspiram:
 
-“Não tenhamos pressa, mas também não percamos tempo.” – José Saramago
+“Não tenhamos pressa, mas também não percamos tempo.” – José Saramago <br>
 “Seja mais apaixonado pelo seu futuro que orgulhoso de seu passado.” – Alfredo Soares
 <hr>
 
