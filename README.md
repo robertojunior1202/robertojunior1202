@@ -12,16 +12,14 @@ Fora das linhas de código, sou atleta de corrida de rua há 3 anos, com três m
 “Seja mais apaixonado pelo seu futuro que orgulhoso de seu passado.” – Alfredo Soares
 <hr>
 
-
-#### **Formações Acadêmicas**
+### **Formações Acadêmicas**
 Engenharia Agrícola - UFPR    
 Análise e Desenvolvimento de Sistemas - Unicesumar   
 Cursando Residência em Inteligência Artififial - UniSenai Londrina  
 Pós Graduado em Ciência de Dados e Big Data - PUC Minas  
+<hr>
 
-
-     
-#### **Redes Sociais**
+### **Redes Sociais**
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roberto.junior1202@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertojunior1202/)
@@ -29,12 +27,9 @@ Pós Graduado em Ciência de Dados e Big Data - PUC Minas
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/robertojunior1202)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/roberto_junior1202/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCZnreLJq2GG8bnEFeyYcJiA)
+<hr>
 
-
-
-
-#### **Tecnologias que utilizo no meu dia a dia**
-
+### **Tecnologias que utilizo no meu dia a dia**
 <div style="display:inline_block">
     <img align ="center" alt= "html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align ="center" alt= "css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -44,9 +39,26 @@ Pós Graduado em Ciência de Dados e Big Data - PUC Minas
     <img align ="center" alt= "mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align ="center" alt= "mariadb" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
     
-</div><br/>
+</div>
+<hr>
 
-#### **Portfólio PowerBI e Dashboards**
+### **Projetos de Inteligência Artificial**
+💬 **Chat DeepSeek - LLM rodando localmente**
+ - Converse com o modelo DeepSeek totalmente offline, usando uma interface leve em Streamlit.<br>
+ - 🛠 Tecnologias: Python · LangChain · Streamlit — 📂 <a href="https://github.com/robertojunior1202/deepseek-local-chat.git" target="_blank"> Acesse o Projeto Aqui!</a>
+
+<br>
+
+ 💬 **Agente Deep Research  - Framework Agno**
+ - Faça pesquisas e sintetize grandes quantidades de informações online 100% free. Projeto inspirado no Deep Research da OpenAi. <br>
+ - 🛠 Tecnologias: Python · LangChain · Streamlit — 📂 <a href="https://github.com/robertojunior1202/deepseek-local-chat.git" target="_blank"> Acesse o Projeto Aqui!</a>
+
+
+
+<br/>
+<hr>
+
+### **Portfólio PowerBI e Dashboards**
 - [Dashboard Unidades Agrícolas de Armazenamento de Grãos - Dados Sicarm/Conab](https://app.powerbi.com/view?r=eyJrIjoiOGI0ODYxYmYtYjNkZi00YjgyLTg4OGUtZTRiMWY3NDk5MmU1IiwidCI6IjRmODQ2YWVmLTY3ZDYtNGRmZC1iYjcxLTBiMDA5YjgwMjdiNSJ9)
 - [Dashoboard Planejamento Agrícola Municipal (PAM) - IBGE](https://app.powerbi.com/view?r=eyJrIjoiYjc0ZWM5YjItMDc5ZC00YTJjLWJlZjMtOTBlYTgzNTJkMWZlIiwidCI6IjRmODQ2YWVmLTY3ZDYtNGRmZC1iYjcxLTBiMDA5YjgwMjdiNSJ9) 
 - [Dashoboard Planejamento da Pecuária Municipal (PPM) - IBGE](https://app.powerbi.com/view?r=eyJrIjoiOTAwZDhlM2EtYTVmMS00MjE5LWE1MWQtNThmYTk3YTY0MGU2IiwidCI6IjRmODQ2YWVmLTY3ZDYtNGRmZC1iYjcxLTBiMDA5YjgwMjdiNSJ9)
