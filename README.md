@@ -1,12 +1,15 @@
 ### Olá, Seja Bem Vindo 🤝<br>
 <b>Quem é o Roberto?</b> <br><br>
-O Roberto é um entusiasta por Agricultura e Tecnologia que se encontrou profissionalmente no gigantesco mundo dos dados. Durante a Graduação, conheceu a linguagem de programação Python e descobriu o superpoder que essa tecnologia poderia lhe proporcionar.
+Roberto é um apaixonado por Agricultura, Tecnologia e o poder dos dados. Durante a graduação, descobriu o Python — e junto com ele, a capacidade de transformar ideias em soluções reais.
 
-Com o tempo, mergulhei de cabeça no universo da análise de dados e machine learning. Hoje, me divido entre projetos que envolvem desde a otimização de processos agrícolas e automações diversas, até a transformação de dados complexos em soluções simples e impactantes.
+Hoje, atuo no desenvolvimento de projetos com Python e Inteligência Artificial, explorando desde otimização de processos agrícolas e automações até machine learning e LLMs, sempre com o objetivo de simplificar o complexo e gerar impacto.
 
-Fora do mundo dos algoritmos, você pode me encontrar correndo por aí 🏃‍♂️. Sou atleta de corrida de rua há 3 anos e tive a oportunidade de completar uma meia maratona. O esporte me ensinou resiliência e paciência, e a importância de respeitar os processos contínuos. Cada quilômetro percorrido reforça que o sucesso é construído com disciplina e determinação, passo a passo.
+Fora das linhas de código, sou atleta de corrida de rua há 3 anos, com três meias maratonas no currículo. O esporte me ensinou sobre resiliência, disciplina e constância, valores que aplico também no trabalho: sucesso se constrói passo a passo.
 
-As frases que me definem são: "Não tenhamos pressa, mas também não percamos tempo" – José Saramago, e "Seja mais apaixonado pelo seu futuro que orgulhoso de seu passado" – Alfredo Soares.
+💬 Frases que me inspiram:
+
+“Não tenhamos pressa, mas também não percamos tempo.” – José Saramago
+“Seja mais apaixonado pelo seu futuro que orgulhoso de seu passado.” – Alfredo Soares
 <hr>
 
 
