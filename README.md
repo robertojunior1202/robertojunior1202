@@ -15,7 +15,7 @@ Fora das linhas de código, sou atleta de corrida de rua há 3 anos, com três m
 ### **Formações Acadêmicas**
 Engenharia Agrícola - UFPR    
 Análise e Desenvolvimento de Sistemas - Unicesumar   
-Cursando Residência em Inteligência Artififial - UniSenai Londrina  
+Cursando Residência em Inteligência Artificial - UniSenai Londrina  
 Pós Graduado em Ciência de Dados e Big Data - PUC Minas  
 <hr>
 
